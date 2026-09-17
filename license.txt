@@ -1,0 +1,32 @@
+# Third-Party Assets & Attribution License Notice
+
+This game ("Further Forever") incorporates the following third-party assets under their respective licenses:
+
+1. Character Model:
+   "Boy" (https://sketchfab.com/3d-models/boy-528bcfc73ba94870ac8e7164a36b5c41) by jetsu (https://sketchfab.com/jetsu)
+   Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0)
+   http://creativecommons.org/licenses/by/4.0/
+
+2. Weapon Model & Texture:
+   "Burning Sword" (https://skfb.ly/67vyX) by atomtwist
+   Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+   http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+3. Equipment Models:
+   - "Armor Metal" by Quaternius (https://poly.pizza/m/TMUoxILh9w) - CC0 / Free Public Asset
+   - "Shield" by Quaternius (https://quaternius.com) - CC0 / Free Public Asset
+   - "Helmet" by samflorencio - Creative Commons Attribution (CC-BY)
+
+4. Environment & Textures:
+   - "Prototype Textures 1.0" by Kenney (https://kenney.nl)
+     Licensed under Creative Commons Zero (CC0 1.0 Universal)
+     http://creativecommons.org/publicdomain/zero/1.0/
+   - "Low Poly Trees Collection" - Public Domain / CC0 low-poly nature set
+
+5. Engine & Tools:
+   - Godot Engine (https://godotengine.org/license)
+     Copyright (c) 2014-present Godot Engine contributors.
+     Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+     Licensed under the MIT License.
+   - "Script Dock" Editor Plugin by GBInFlames (https://github.com/GBInFlames)
+     Licensed under the MIT License.
